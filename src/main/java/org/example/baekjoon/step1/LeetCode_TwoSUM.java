@@ -21,4 +21,5 @@ public class LeetCode_TwoSUM {
         LeetCode_TwoSUM leetCodeTwoSUM = new LeetCode_TwoSUM();
         System.out.println(Arrays.toString(leetCodeTwoSUM.twoSum(new int[]{2, 7, 11, 15}, 26)));
     }
+
 }
