@@ -36,7 +36,7 @@ public class LeetCode_937 {
         // compare 이용 같으면 0, s1을 앞자리에 오게하려면 -1(s1이 s2보다 작을 때 -1), s1을 뒷자리에 오게하려면 1(s1이 s2보다 클때 1)로 리턴
         // 하지만 해당문제에선 compare을 override 하지 않고 기본 compare을 이용하여 0이면 맨앞 id를 비교하여 위치시킨다.
         letterList.sort((s1, s2) ->{
-            String[] s1x = s1.split(" ", 2);
+            String[] s1x = s1.split(" ", 2); // 이부분은 split 으로 구분하는 갯수를 지정한다(ex, "1 2 3"  -> "1", "2 3" 이런식으로)
             String[] s2x = s2.split(" ", 2);
 
             int compare = s1x[1].compareTo(s2x[1]);
