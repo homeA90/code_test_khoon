@@ -1,11 +1,11 @@
-package org.example.baekjoon.step1;
+package org.example.code;
 
 // 문제
 // 주어진 문자열이 팰린드롬인지 확인해라. 대소문자를 구분하지 않으며, 영숫자(영문자와 숫자)만을 대상으로 한다.
 // 입력 : "Do geese see God?"
 // 출력 : true
 
-public class LeetCode_125 {
+public class LeetCode125 {
 
     public static boolean isPalindrome(String s) {
         int start = 0;

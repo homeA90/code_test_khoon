@@ -1,9 +1,9 @@
-package org.example.baekjoon.step1;
+package org.example.code;
 
 
 import java.util.Arrays;
 
-public class LeetCode_TwoSUM {
+public class LeetCodeTwoSUM {
     public int[] twoSum(int[] nums, int target) {
 
 
@@ -18,7 +18,7 @@ public class LeetCode_TwoSUM {
     }
 
     public static void main(String[] args) {
-        LeetCode_TwoSUM leetCodeTwoSUM = new LeetCode_TwoSUM();
+        LeetCodeTwoSUM leetCodeTwoSUM = new LeetCodeTwoSUM();
         System.out.println(Arrays.toString(leetCodeTwoSUM.twoSum(new int[]{2, 7, 11, 15}, 26)));
     }
 

@@ -1,4 +1,4 @@
-package org.example.baekjoon.step1;
+package org.example.code;
 
 /*
 문제 : 로그를 재정령하라. 기준은 다음과 같다
@@ -14,7 +14,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class LeetCode_937 {
+public class LeetCode937 {
 
     public static String[] reOrderData(String[] logs) {
 

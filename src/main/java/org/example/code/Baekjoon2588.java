@@ -1,4 +1,4 @@
-package org.example.baekjoon.step1;
+package org.example.code;
 
 import java.util.ArrayList;
 import java.util.List;

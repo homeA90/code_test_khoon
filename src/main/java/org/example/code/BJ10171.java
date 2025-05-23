@@ -1,4 +1,4 @@
-package org.example.baekjoon.step1;
+package org.example.code;
 
 public class BJ10171 {
     public static void main(String[] args) {
