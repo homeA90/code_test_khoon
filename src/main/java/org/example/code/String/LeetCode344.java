@@ -1,4 +1,4 @@
-package org.example.code;
+package org.example.code.String;
 
 /*
 문제 : 문자열을 뒤집는 함수를 작성하라. 입력값은 문자 배열이며, 리턴 없이 입력 배열 내부를 직접 조작하라.

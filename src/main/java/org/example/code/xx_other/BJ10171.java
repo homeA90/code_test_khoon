@@ -1,4 +1,4 @@
-package org.example.code;
+package org.example.code.xx_other;
 
 public class BJ10171 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package org.example.code;
+package org.example.code.String;
 
 /*
 문제 : 로그를 재정령하라. 기준은 다음과 같다

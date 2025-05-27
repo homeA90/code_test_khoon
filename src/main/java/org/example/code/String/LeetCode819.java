@@ -1,4 +1,4 @@
-package org.example.code;
+package org.example.code.String;
 
 /*
 문제 : 금지된 단어를 제외하고 가장 흔하게 등장하는 단어를 출력하라.
